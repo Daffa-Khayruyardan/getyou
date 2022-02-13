@@ -25,7 +25,7 @@ $ python3 ./src/main.py
 
 <br>
 
-<font size="4">**NOTE** : If you get error HTTP Error 410: Gone you should update pytube library</font> <br>
+<font size="4">**NOTE** : If you get error HTTP Error 410: Gone you should update pytube library</font> <br><br>
 Windows
 
 ```
