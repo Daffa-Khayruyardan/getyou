@@ -26,12 +26,14 @@ $ python3 ./src/main.py
 <br>
 
 <font size="4">**NOTE** : If you get error HTTP Error 410: Gone you should update pytube library</font>
+Windows
 
 ```
 > python -m pip install --upgrade pytube
 ```
 
 or 
+Mac or Linux
 
 ```
 $ python3 -m pip install --upgrade pytube
